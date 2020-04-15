@@ -1,6 +1,6 @@
-# Project Title
+# ITSRR-App-Implementation
 
-One Paragraph of project description goes here
+Data Retention Program for ITSRR - MBFS Project
 
 ## Getting Started
 
